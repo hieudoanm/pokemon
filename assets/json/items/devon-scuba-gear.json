@@ -1,0 +1,23 @@
+{
+  "name": "devon-scuba-gear",
+  "symbol": "PKM",
+  "image": "devon-scuba-gear.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "devon-scuba-gear.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

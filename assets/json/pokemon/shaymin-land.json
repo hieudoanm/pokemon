@@ -1,0 +1,23 @@
+{
+  "name": "shaymin-land",
+  "symbol": "PKM",
+  "image": "shaymin-land.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "shaymin-land.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "escape-rope",
+  "symbol": "PKM",
+  "image": "escape-rope.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "escape-rope.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

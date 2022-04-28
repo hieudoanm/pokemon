@@ -1,0 +1,23 @@
+{
+  "name": "bridge-mail-d",
+  "symbol": "PKM",
+  "image": "bridge-mail-d.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "bridge-mail-d.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cell-battery",
+  "symbol": "PKM",
+  "image": "cell-battery.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "cell-battery.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

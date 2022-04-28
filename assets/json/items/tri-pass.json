@@ -1,0 +1,23 @@
+{
+  "name": "tri-pass",
+  "symbol": "PKM",
+  "image": "tri-pass.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tri-pass.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

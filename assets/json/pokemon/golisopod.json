@@ -1,0 +1,23 @@
+{
+  "name": "golisopod",
+  "symbol": "PKM",
+  "image": "golisopod.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "golisopod.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

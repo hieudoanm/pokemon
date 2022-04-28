@@ -1,0 +1,23 @@
+{
+  "name": "roto-hatch",
+  "symbol": "PKM",
+  "image": "roto-hatch.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "roto-hatch.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

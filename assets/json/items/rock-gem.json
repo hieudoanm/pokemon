@@ -1,0 +1,23 @@
+{
+  "name": "rock-gem",
+  "symbol": "PKM",
+  "image": "rock-gem.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "rock-gem.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

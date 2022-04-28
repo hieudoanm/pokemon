@@ -1,0 +1,23 @@
+{
+  "name": "shoal-shell",
+  "symbol": "PKM",
+  "image": "shoal-shell.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "shoal-shell.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "focus-band",
+  "symbol": "PKM",
+  "image": "focus-band.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "focus-band.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

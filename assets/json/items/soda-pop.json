@@ -1,0 +1,23 @@
+{
+  "name": "soda-pop",
+  "symbol": "PKM",
+  "image": "soda-pop.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "soda-pop.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "prop-case",
+  "symbol": "PKM",
+  "image": "prop-case.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "prop-case.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

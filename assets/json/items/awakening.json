@@ -1,0 +1,23 @@
+{
+  "name": "awakening",
+  "symbol": "PKM",
+  "image": "awakening.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "awakening.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

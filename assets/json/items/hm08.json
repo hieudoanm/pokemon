@@ -1,0 +1,23 @@
+{
+  "name": "hm08",
+  "symbol": "PKM",
+  "image": "hm08.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "hm08.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

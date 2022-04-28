@@ -1,0 +1,23 @@
+{
+  "name": "golbat",
+  "symbol": "PKM",
+  "image": "golbat.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "golbat.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

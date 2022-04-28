@@ -1,0 +1,23 @@
+{
+  "name": "energy-root",
+  "symbol": "PKM",
+  "image": "energy-root.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "energy-root.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

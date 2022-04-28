@@ -1,0 +1,23 @@
+{
+  "name": "wormadam-plant",
+  "symbol": "PKM",
+  "image": "wormadam-plant.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "wormadam-plant.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

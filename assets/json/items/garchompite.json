@@ -1,0 +1,23 @@
+{
+  "name": "garchompite",
+  "symbol": "PKM",
+  "image": "garchompite.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "garchompite.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

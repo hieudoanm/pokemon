@@ -1,0 +1,23 @@
+{
+  "name": "urshifu-single-strike-gmax",
+  "symbol": "PKM",
+  "image": "urshifu-single-strike-gmax.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "urshifu-single-strike-gmax.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

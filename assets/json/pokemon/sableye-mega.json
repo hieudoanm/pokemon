@@ -1,0 +1,23 @@
+{
+  "name": "sableye-mega",
+  "symbol": "PKM",
+  "image": "sableye-mega.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "sableye-mega.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "electrode",
+  "symbol": "PKM",
+  "image": "electrode.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "electrode.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

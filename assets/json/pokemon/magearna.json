@@ -1,0 +1,23 @@
+{
+  "name": "magearna",
+  "symbol": "PKM",
+  "image": "magearna.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "magearna.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

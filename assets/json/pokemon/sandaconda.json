@@ -1,0 +1,23 @@
+{
+  "name": "sandaconda",
+  "symbol": "PKM",
+  "image": "sandaconda.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "sandaconda.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

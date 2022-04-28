@@ -1,0 +1,23 @@
+{
+  "name": "dna-splicers--split",
+  "symbol": "PKM",
+  "image": "dna-splicers--split.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dna-splicers--split.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

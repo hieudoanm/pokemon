@@ -1,0 +1,23 @@
+{
+  "name": "holo-caster",
+  "symbol": "PKM",
+  "image": "holo-caster.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "holo-caster.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

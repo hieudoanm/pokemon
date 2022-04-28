@@ -1,0 +1,23 @@
+{
+  "name": "tornadus-incarnate",
+  "symbol": "PKM",
+  "image": "tornadus-incarnate.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tornadus-incarnate.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

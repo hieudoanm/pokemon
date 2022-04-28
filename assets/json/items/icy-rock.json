@@ -1,0 +1,23 @@
+{
+  "name": "icy-rock",
+  "symbol": "PKM",
+  "image": "icy-rock.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "icy-rock.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

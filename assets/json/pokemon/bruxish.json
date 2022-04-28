@@ -1,0 +1,23 @@
+{
+  "name": "bruxish",
+  "symbol": "PKM",
+  "image": "bruxish.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "bruxish.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

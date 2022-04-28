@@ -1,0 +1,23 @@
+{
+  "name": "reaper-cloth",
+  "symbol": "PKM",
+  "image": "reaper-cloth.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "reaper-cloth.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

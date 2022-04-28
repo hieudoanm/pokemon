@@ -1,0 +1,23 @@
+{
+  "name": "storage-key--sea-mauville",
+  "symbol": "PKM",
+  "image": "storage-key--sea-mauville.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "storage-key--sea-mauville.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

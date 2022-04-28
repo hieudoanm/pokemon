@@ -1,0 +1,23 @@
+{
+  "name": "like-mail",
+  "symbol": "PKM",
+  "image": "like-mail.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "like-mail.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

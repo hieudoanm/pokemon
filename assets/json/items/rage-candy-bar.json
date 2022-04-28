@@ -1,0 +1,23 @@
+{
+  "name": "rage-candy-bar",
+  "symbol": "PKM",
+  "image": "rage-candy-bar.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "rage-candy-bar.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

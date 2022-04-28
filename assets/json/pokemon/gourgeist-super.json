@@ -1,0 +1,23 @@
+{
+  "name": "gourgeist-super",
+  "symbol": "PKM",
+  "image": "gourgeist-super.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "gourgeist-super.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

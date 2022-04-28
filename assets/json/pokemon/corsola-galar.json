@@ -1,0 +1,23 @@
+{
+  "name": "corsola-galar",
+  "symbol": "PKM",
+  "image": "corsola-galar.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "corsola-galar.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

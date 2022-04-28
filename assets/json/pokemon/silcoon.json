@@ -1,0 +1,23 @@
+{
+  "name": "silcoon",
+  "symbol": "PKM",
+  "image": "silcoon.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "silcoon.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

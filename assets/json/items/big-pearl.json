@@ -1,0 +1,23 @@
+{
+  "name": "big-pearl",
+  "symbol": "PKM",
+  "image": "big-pearl.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "big-pearl.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

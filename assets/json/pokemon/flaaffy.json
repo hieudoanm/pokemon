@@ -1,0 +1,23 @@
+{
+  "name": "flaaffy",
+  "symbol": "PKM",
+  "image": "flaaffy.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "flaaffy.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

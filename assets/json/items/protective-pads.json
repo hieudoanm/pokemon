@@ -1,0 +1,23 @@
+{
+  "name": "protective-pads",
+  "symbol": "PKM",
+  "image": "protective-pads.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "protective-pads.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

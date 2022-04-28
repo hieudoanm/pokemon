@@ -1,0 +1,23 @@
+{
+  "name": "corsola",
+  "symbol": "PKM",
+  "image": "corsola.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "corsola.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

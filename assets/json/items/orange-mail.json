@@ -1,0 +1,23 @@
+{
+  "name": "orange-mail",
+  "symbol": "PKM",
+  "image": "orange-mail.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "orange-mail.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

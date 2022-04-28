@@ -1,0 +1,23 @@
+{
+  "name": "fire-memory",
+  "symbol": "PKM",
+  "image": "fire-memory.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "fire-memory.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "groundium-z--bag",
+  "symbol": "PKM",
+  "image": "groundium-z--bag.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "groundium-z--bag.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

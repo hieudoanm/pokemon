@@ -1,0 +1,23 @@
+{
+  "name": "zap-plate",
+  "symbol": "PKM",
+  "image": "zap-plate.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "zap-plate.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

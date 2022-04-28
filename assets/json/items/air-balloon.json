@@ -1,0 +1,23 @@
+{
+  "name": "air-balloon",
+  "symbol": "PKM",
+  "image": "air-balloon.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "air-balloon.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

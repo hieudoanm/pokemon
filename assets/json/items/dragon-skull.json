@@ -1,0 +1,23 @@
+{
+  "name": "dragon-skull",
+  "symbol": "PKM",
+  "image": "dragon-skull.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dragon-skull.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

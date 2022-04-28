@@ -1,0 +1,23 @@
+{
+  "name": "tm34",
+  "symbol": "PKM",
+  "image": "tm34.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tm34.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

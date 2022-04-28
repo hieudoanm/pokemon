@@ -1,0 +1,23 @@
+{
+  "name": "tm93",
+  "symbol": "PKM",
+  "image": "tm93.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tm93.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "grass-gem",
+  "symbol": "PKM",
+  "image": "grass-gem.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "grass-gem.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

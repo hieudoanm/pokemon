@@ -1,0 +1,23 @@
+{
+  "name": "maractus",
+  "symbol": "PKM",
+  "image": "maractus.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "maractus.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "roto-pp-restore",
+  "symbol": "PKM",
+  "image": "roto-pp-restore.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "roto-pp-restore.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

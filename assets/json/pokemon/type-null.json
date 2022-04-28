@@ -1,0 +1,23 @@
+{
+  "name": "type-null",
+  "symbol": "PKM",
+  "image": "type-null.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "type-null.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

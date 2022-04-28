@@ -1,0 +1,23 @@
+{
+  "name": "binding-band",
+  "symbol": "PKM",
+  "image": "binding-band.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "binding-band.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

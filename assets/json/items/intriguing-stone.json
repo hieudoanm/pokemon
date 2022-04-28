@@ -1,0 +1,23 @@
+{
+  "name": "intriguing-stone",
+  "symbol": "PKM",
+  "image": "intriguing-stone.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "intriguing-stone.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

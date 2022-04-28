@@ -1,0 +1,23 @@
+{
+  "name": "dragon-fang",
+  "symbol": "PKM",
+  "image": "dragon-fang.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dragon-fang.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

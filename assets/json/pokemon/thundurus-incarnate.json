@@ -1,0 +1,23 @@
+{
+  "name": "thundurus-incarnate",
+  "symbol": "PKM",
+  "image": "thundurus-incarnate.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "thundurus-incarnate.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "black-glasses",
+  "symbol": "PKM",
+  "image": "black-glasses.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "black-glasses.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

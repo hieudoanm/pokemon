@@ -1,0 +1,23 @@
+{
+  "name": "dusk-stone",
+  "symbol": "PKM",
+  "image": "dusk-stone.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dusk-stone.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

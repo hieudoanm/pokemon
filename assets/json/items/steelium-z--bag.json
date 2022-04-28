@@ -1,0 +1,23 @@
+{
+  "name": "steelium-z--bag",
+  "symbol": "PKM",
+  "image": "steelium-z--bag.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "steelium-z--bag.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

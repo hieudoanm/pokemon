@@ -1,0 +1,23 @@
+{
+  "name": "balm-mushroom",
+  "symbol": "PKM",
+  "image": "balm-mushroom.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "balm-mushroom.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

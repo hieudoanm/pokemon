@@ -1,0 +1,23 @@
+{
+  "name": "volbeat",
+  "symbol": "PKM",
+  "image": "volbeat.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "volbeat.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

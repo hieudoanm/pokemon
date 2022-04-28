@@ -1,0 +1,23 @@
+{
+  "name": "choice-scarf",
+  "symbol": "PKM",
+  "image": "choice-scarf.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "choice-scarf.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

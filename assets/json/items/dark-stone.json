@@ -1,0 +1,23 @@
+{
+  "name": "dark-stone",
+  "symbol": "PKM",
+  "image": "dark-stone.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dark-stone.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

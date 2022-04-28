@@ -1,0 +1,23 @@
+{
+  "name": "audinite",
+  "symbol": "PKM",
+  "image": "audinite.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "audinite.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

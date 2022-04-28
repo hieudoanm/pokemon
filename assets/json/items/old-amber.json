@@ -1,0 +1,23 @@
+{
+  "name": "old-amber",
+  "symbol": "PKM",
+  "image": "old-amber.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "old-amber.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}
