@@ -1,0 +1,23 @@
+{
+  "name": "scope-lens",
+  "symbol": "PKM",
+  "image": "scope-lens.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "scope-lens.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sail-fossil",
+  "symbol": "PKM",
+  "image": "sail-fossil.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "sail-fossil.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

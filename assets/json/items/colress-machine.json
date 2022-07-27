@@ -1,0 +1,23 @@
+{
+  "name": "colress-machine",
+  "symbol": "PKM",
+  "image": "colress-machine.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "colress-machine.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

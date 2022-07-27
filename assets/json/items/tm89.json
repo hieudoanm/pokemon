@@ -1,0 +1,23 @@
+{
+  "name": "tm89",
+  "symbol": "PKM",
+  "image": "tm89.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tm89.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

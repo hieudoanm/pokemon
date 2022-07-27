@@ -1,0 +1,23 @@
+{
+  "name": "hp-up",
+  "symbol": "PKM",
+  "image": "hp-up.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "hp-up.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

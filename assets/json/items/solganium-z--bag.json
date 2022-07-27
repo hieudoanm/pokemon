@@ -1,0 +1,23 @@
+{
+  "name": "solganium-z--bag",
+  "symbol": "PKM",
+  "image": "solganium-z--bag.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "solganium-z--bag.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

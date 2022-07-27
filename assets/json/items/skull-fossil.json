@@ -1,0 +1,23 @@
+{
+  "name": "skull-fossil",
+  "symbol": "PKM",
+  "image": "skull-fossil.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "skull-fossil.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

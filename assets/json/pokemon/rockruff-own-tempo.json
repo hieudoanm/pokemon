@@ -1,0 +1,23 @@
+{
+  "name": "rockruff-own-tempo",
+  "symbol": "PKM",
+  "image": "rockruff-own-tempo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "rockruff-own-tempo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

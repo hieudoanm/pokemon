@@ -1,0 +1,23 @@
+{
+  "name": "landorus-incarnate",
+  "symbol": "PKM",
+  "image": "landorus-incarnate.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "landorus-incarnate.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

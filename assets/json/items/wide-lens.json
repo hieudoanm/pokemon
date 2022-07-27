@@ -1,0 +1,23 @@
+{
+  "name": "wide-lens",
+  "symbol": "PKM",
+  "image": "wide-lens.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "wide-lens.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

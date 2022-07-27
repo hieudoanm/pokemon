@@ -1,0 +1,23 @@
+{
+  "name": "basement-key--new-mauville",
+  "symbol": "PKM",
+  "image": "basement-key--new-mauville.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "basement-key--new-mauville.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

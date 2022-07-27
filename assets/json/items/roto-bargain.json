@@ -1,0 +1,23 @@
+{
+  "name": "roto-bargain",
+  "symbol": "PKM",
+  "image": "roto-bargain.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "roto-bargain.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

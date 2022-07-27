@@ -1,0 +1,23 @@
+{
+  "name": "pass-orb",
+  "symbol": "PKM",
+  "image": "pass-orb.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "pass-orb.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

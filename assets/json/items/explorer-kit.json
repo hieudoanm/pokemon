@@ -1,0 +1,23 @@
+{
+  "name": "explorer-kit",
+  "symbol": "PKM",
+  "image": "explorer-kit.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "explorer-kit.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

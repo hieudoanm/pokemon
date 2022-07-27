@@ -1,0 +1,23 @@
+{
+  "name": "oval-stone",
+  "symbol": "PKM",
+  "image": "oval-stone.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "oval-stone.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

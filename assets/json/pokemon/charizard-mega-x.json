@@ -1,0 +1,23 @@
+{
+  "name": "charizard-mega-x",
+  "symbol": "PKM",
+  "image": "charizard-mega-x.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "charizard-mega-x.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

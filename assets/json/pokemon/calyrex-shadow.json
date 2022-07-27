@@ -1,0 +1,23 @@
+{
+  "name": "calyrex-shadow",
+  "symbol": "PKM",
+  "image": "calyrex-shadow.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "calyrex-shadow.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

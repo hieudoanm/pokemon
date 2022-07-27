@@ -1,0 +1,23 @@
+{
+  "name": "rookidee",
+  "symbol": "PKM",
+  "image": "rookidee.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "rookidee.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

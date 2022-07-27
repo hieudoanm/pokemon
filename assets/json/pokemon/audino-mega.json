@@ -1,0 +1,23 @@
+{
+  "name": "audino-mega",
+  "symbol": "PKM",
+  "image": "audino-mega.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "audino-mega.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

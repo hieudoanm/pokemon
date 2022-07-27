@@ -1,0 +1,23 @@
+{
+  "name": "rillaboom",
+  "symbol": "PKM",
+  "image": "rillaboom.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "rillaboom.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

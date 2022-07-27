@@ -1,0 +1,23 @@
+{
+  "name": "discount-coupon",
+  "symbol": "PKM",
+  "image": "discount-coupon.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "discount-coupon.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

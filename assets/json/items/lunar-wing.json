@@ -1,0 +1,23 @@
+{
+  "name": "lunar-wing",
+  "symbol": "PKM",
+  "image": "lunar-wing.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "lunar-wing.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

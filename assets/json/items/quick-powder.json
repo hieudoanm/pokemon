@@ -1,0 +1,23 @@
+{
+  "name": "quick-powder",
+  "symbol": "PKM",
+  "image": "quick-powder.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "quick-powder.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

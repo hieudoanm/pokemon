@@ -1,0 +1,23 @@
+{
+  "name": "ilimas-normalium-z",
+  "symbol": "PKM",
+  "image": "ilimas-normalium-z.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "ilimas-normalium-z.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

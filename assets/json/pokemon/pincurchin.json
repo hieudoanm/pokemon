@@ -1,0 +1,23 @@
+{
+  "name": "pincurchin",
+  "symbol": "PKM",
+  "image": "pincurchin.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "pincurchin.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

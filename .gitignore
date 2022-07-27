@@ -1,0 +1,7 @@
+.cache
+node_modules
+temp
+
+.env
+config.pinata.json
+yarn-error.log

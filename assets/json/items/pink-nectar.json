@@ -1,0 +1,23 @@
+{
+  "name": "pink-nectar",
+  "symbol": "PKM",
+  "image": "pink-nectar.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "pink-nectar.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

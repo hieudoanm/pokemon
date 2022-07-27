@@ -1,0 +1,23 @@
+{
+  "name": "adventure-rules",
+  "symbol": "PKM",
+  "image": "adventure-rules.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "adventure-rules.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

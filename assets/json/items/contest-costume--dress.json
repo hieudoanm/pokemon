@@ -1,0 +1,23 @@
+{
+  "name": "contest-costume--dress",
+  "symbol": "PKM",
+  "image": "contest-costume--dress.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "contest-costume--dress.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

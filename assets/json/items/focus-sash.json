@@ -1,0 +1,23 @@
+{
+  "name": "focus-sash",
+  "symbol": "PKM",
+  "image": "focus-sash.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "focus-sash.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cover-fossil",
+  "symbol": "PKM",
+  "image": "cover-fossil.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "cover-fossil.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

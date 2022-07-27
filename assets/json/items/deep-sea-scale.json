@@ -1,0 +1,23 @@
+{
+  "name": "deep-sea-scale",
+  "symbol": "PKM",
+  "image": "deep-sea-scale.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "deep-sea-scale.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "coba-berry",
+  "symbol": "PKM",
+  "image": "coba-berry.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "coba-berry.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

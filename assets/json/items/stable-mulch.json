@@ -1,0 +1,23 @@
+{
+  "name": "stable-mulch",
+  "symbol": "PKM",
+  "image": "stable-mulch.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "stable-mulch.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

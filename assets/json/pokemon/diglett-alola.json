@@ -1,0 +1,23 @@
+{
+  "name": "diglett-alola",
+  "symbol": "PKM",
+  "image": "diglett-alola.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "diglett-alola.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

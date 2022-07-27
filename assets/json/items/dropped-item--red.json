@@ -1,0 +1,23 @@
+{
+  "name": "dropped-item--red",
+  "symbol": "PKM",
+  "image": "dropped-item--red.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "dropped-item--red.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "hoopa-unbound",
+  "symbol": "PKM",
+  "image": "hoopa-unbound.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "hoopa-unbound.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "lampent",
+  "symbol": "PKM",
+  "image": "lampent.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "lampent.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

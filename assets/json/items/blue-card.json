@@ -1,0 +1,23 @@
+{
+  "name": "blue-card",
+  "symbol": "PKM",
+  "image": "blue-card.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "blue-card.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

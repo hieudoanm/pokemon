@@ -1,0 +1,23 @@
+{
+  "name": "shuca-berry",
+  "symbol": "PKM",
+  "image": "shuca-berry.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "shuca-berry.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

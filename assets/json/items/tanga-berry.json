@@ -1,0 +1,23 @@
+{
+  "name": "tanga-berry",
+  "symbol": "PKM",
+  "image": "tanga-berry.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tanga-berry.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

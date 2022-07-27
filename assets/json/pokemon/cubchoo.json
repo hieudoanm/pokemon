@@ -1,0 +1,23 @@
+{
+  "name": "cubchoo",
+  "symbol": "PKM",
+  "image": "cubchoo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "cubchoo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "lustrous-orb",
+  "symbol": "PKM",
+  "image": "lustrous-orb.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "lustrous-orb.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

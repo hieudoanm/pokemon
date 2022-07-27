@@ -1,0 +1,23 @@
+{
+  "name": "burn-drive",
+  "symbol": "PKM",
+  "image": "burn-drive.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "burn-drive.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

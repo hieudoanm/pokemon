@@ -1,0 +1,23 @@
+{
+  "name": "sharpedonite",
+  "symbol": "PKM",
+  "image": "sharpedonite.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "sharpedonite.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

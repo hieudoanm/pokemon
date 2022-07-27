@@ -1,0 +1,23 @@
+{
+  "name": "flyinium-z--held",
+  "symbol": "PKM",
+  "image": "flyinium-z--held.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "flyinium-z--held.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

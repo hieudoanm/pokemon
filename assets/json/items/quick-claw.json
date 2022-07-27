@@ -1,0 +1,23 @@
+{
+  "name": "quick-claw",
+  "symbol": "PKM",
+  "image": "quick-claw.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "quick-claw.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

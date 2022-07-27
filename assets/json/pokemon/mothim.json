@@ -1,0 +1,23 @@
+{
+  "name": "mothim",
+  "symbol": "PKM",
+  "image": "mothim.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "mothim.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

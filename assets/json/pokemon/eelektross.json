@@ -1,0 +1,23 @@
+{
+  "name": "eelektross",
+  "symbol": "PKM",
+  "image": "eelektross.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "eelektross.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

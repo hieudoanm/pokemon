@@ -1,0 +1,23 @@
+{
+  "name": "decidium-z--bag",
+  "symbol": "PKM",
+  "image": "decidium-z--bag.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "decidium-z--bag.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "pikachu-kalos-cap",
+  "symbol": "PKM",
+  "image": "pikachu-kalos-cap.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "pikachu-kalos-cap.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

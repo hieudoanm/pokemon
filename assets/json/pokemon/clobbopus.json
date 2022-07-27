@@ -1,0 +1,23 @@
+{
+  "name": "clobbopus",
+  "symbol": "PKM",
+  "image": "clobbopus.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "clobbopus.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

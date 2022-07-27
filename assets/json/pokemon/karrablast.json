@@ -1,0 +1,23 @@
+{
+  "name": "karrablast",
+  "symbol": "PKM",
+  "image": "karrablast.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "karrablast.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

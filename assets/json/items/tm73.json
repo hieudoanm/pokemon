@@ -1,0 +1,23 @@
+{
+  "name": "tm73",
+  "symbol": "PKM",
+  "image": "tm73.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "tm73.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

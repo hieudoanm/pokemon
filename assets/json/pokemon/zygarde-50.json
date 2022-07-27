@@ -1,0 +1,23 @@
+{
+  "name": "zygarde-50",
+  "symbol": "PKM",
+  "image": "zygarde-50.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "zygarde-50.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}

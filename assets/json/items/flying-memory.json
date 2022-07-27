@@ -1,0 +1,23 @@
+{
+  "name": "flying-memory",
+  "symbol": "PKM",
+  "image": "flying-memory.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "flying-memory.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "items",
+    "family": "pokemon"
+  }
+}

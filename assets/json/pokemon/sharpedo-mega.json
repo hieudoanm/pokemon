@@ -1,0 +1,23 @@
+{
+  "name": "sharpedo-mega",
+  "symbol": "PKM",
+  "image": "sharpedo-mega.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "sharpedo-mega.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E5HFBLSPcrca2GeUhASdJbAdizJzhiPB5t27dS9tFKd1",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "pokemon",
+    "family": "pokemon"
+  }
+}
